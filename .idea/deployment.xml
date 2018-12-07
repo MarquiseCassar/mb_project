@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="marquese-DO">
+    <serverData>
+      <paths name="marquese-DO">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mb_project" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/mb_project/mb_project.sock" />
+            <excludedPath path="/mb_project/udo journalctl -u gunicorn" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
